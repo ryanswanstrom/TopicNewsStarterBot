@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Bot Application5/Properties/PublishProfiles/BotApplication5 - Web Deploy.pubxml
