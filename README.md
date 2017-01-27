@@ -1,2 +1,2 @@
 # TopicNewsStarterBot
-See [TopicNewsBot] for an updated version.
+See [TopicNewsBot](https://github.com/ryanswanstrom/TopicNewsBot) for an updated version.
